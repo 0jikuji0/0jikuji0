@@ -12,6 +12,11 @@
 </p>
 
  -->
+<p align="center">
+  <img src="./banner.svg" alt="GitHub Banner">
+</p>
+
+ 
 <h3 align="center">🥇 Trophies</h3>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/20f2dd24-f9c7-4ac3-9dd6-1f0f7831aa43">
@@ -20,3 +25,4 @@
 <p align="center">
     <img src="https://github-profile-trophy-tawny.vercel.app/?username=0jikuji0&theme=onedark&column=5&&rank=-C&margin-w=15&margin-h=15">
 </p>
+
